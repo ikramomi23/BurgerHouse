@@ -1,0 +1,5 @@
+fonts
+    Bebas neue, cursuve,
+    Montserrat, sans-serif;
+    Alfa slab one, cursive;
+    
