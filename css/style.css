@@ -29,12 +29,12 @@ body{
 /* header start */
 header{
   padding-top: 50px;
-}
-.container{
-  margin: 0 auto;
   background-image: url("../images/banner.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+}
+.container{
+  margin: 0 auto;
   overflow: hidden;
   width: 90%;
 }
